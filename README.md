@@ -1,0 +1,2 @@
+A Power BI Analysis of Columbia Asia Hospital
+Columbia Asia Hospital, renowned for its commitment to providing high-quality healthcare services, generates vast amounts of data related to patient care, operational efficiency, and resource allocation. This Power BI project aims to harness the power of data analytics to optimize operations, improve patient outcomes, and enhance overall efficiency within Columbia Asia Hospital
